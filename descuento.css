@@ -1,0 +1,21 @@
+body{
+    display: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+input{
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 300px;
+    margin-bottom: 2px solid white;
+    margin-bottom: 15px;
+}
+button{
+    border:3px solid black;
+}   
